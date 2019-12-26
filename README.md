@@ -17,6 +17,6 @@ Some insights of Design iteration mockups:
 
 <img src="https://github.com/nimi0112/DigiTanDemo/blob/master/app/src/main/res/drawable/Slide2.png" height="650" width="400">
 
-3.Slide 3
+3. Slide 3
 
 <img src="https://github.com/nimi0112/DigiTanDemo/blob/master/app/src/main/res/drawable/Slide3.png" height="650" width="400">
