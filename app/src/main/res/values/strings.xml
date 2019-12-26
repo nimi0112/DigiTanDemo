@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DigiTan</string>
+
+    <!--custom font-->
+    <string name="font_regular">"helveticaneue.ttf"</string>
+    <string name="digitan">DIGITAN</string>
+    <string name="you_have_recorded_a_total_of_8_hours_today">You have recorded a total of\n8 hours today</string>
+    <string name="update_timesheet">Please update your timesheet\nfor each project</string>
+    <string name="outboxy">Outboxy</string>
+    <string name="drift">Drift Pilot</string>
+    <string name="grappus_internal">Grappus Internal</string>
+
+    <string name="hours_spent">%dh</string>
+
+    <string name="char_h">h</string>
+    <string name="two">2</string>
+</resources>
